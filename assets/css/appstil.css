@@ -1,0 +1,153 @@
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+
+ .logo {
+    
+    margin-left: 30px;
+    margin-top: 20px;
+
+ }
+
+ .ustbasliklar {
+ 
+ font-size: 10px;
+ text-align: center;
+ float: right;
+ gap: 20px;
+ display: flex;
+ position: relative;
+ right: 70px;
+ margin-top: 20px;
+ cursor: pointer;
+
+ }
+
+ .ustbasliklar a {
+    text-decoration: none;
+    color: black;
+ }
+
+ .ovalkutu {
+   width: 20;
+ }
+
+ .resim1 {
+   margin-left: 20px;
+   position: relative;
+   top: 40px;
+ }
+
+ .ovalkutu h1 {
+   text-align: center;
+   margin-bottom: 40px;
+   position: absolute;
+   position: relative;
+   bottom: 150px;
+   color: white;
+ }
+
+ .ovalkutu p {
+   text-align: center;
+   margin-bottom: 50px;
+   position: absolute;
+   position: relative;
+   bottom: 150px;
+   color: white;
+ }
+ 
+ .tablolar1 {
+   display: flex;
+   gap: 25px;
+   position: relative;
+   bottom: 80px;
+ }
+
+ .tablolar2 {
+   display: flex;
+   gap: 25px;
+   position: relative;
+   bottom: 50px;
+ }
+
+ .yourproject {
+  position: absolute;
+ }
+
+ .your-project-kutu {
+  width: 700px;
+height: 200px;
+border-radius: 20px;
+text-align: center;
+margin-left: 60px;
+position: relative;
+bottom: 250px;
+ }
+
+ .yourproject h1 {
+  font-size: 30px;
+   text-align: center;
+   position: absolute;
+    position: relative;
+    bottom: 400px;
+    right: 180px;
+   color: white;
+  
+ }
+
+ .yourproject p {
+  font-size: 10px;
+  text-align: center;
+  position: absolute;
+  position: relative;
+  bottom: 380px;
+  right: 180px;
+  color: white;
+ }
+
+ .yourproject button {
+  position: absolute;
+  text-align: center;
+  position: relative;
+  bottom: 480px;
+  left: 550px;
+  background-color: white;
+  border-radius: 10px;
+  width: 115px;
+  height: 62px;
+  border-style: none;
+ }
+
+ .siyaharkaplan {
+  width: 1111px;
+  height: 240px;
+  position: relative;
+  top: 130px;
+ }
+
+ .baglantilar {
+  display: flex;
+  gap: 50px;
+  margin-left: 150px;
+  position: relative;
+  bottom: 30px;
+ }
+
+ .ustbasliklar:hover {
+  font-weight: bold;
+}
+
+ 
+
+
+
+ 
+ 
+
+    
+ 
+
+
+

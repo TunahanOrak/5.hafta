@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+  
+   .logo {
+      
+      margin-left: 30px;
+      margin-top: 20px;
+  
+   }
+  
+   .ustbasliklar {
+   
+   font-size: 10px;
+   text-align: center;
+   float: right;
+   gap: 20px;
+   display: flex;
+   position: relative;
+   right: 70px;
+   margin-top: 20px;
+   cursor: pointer;
+  
+   }
+  
+   .ustbasliklar a {
+      text-decoration: none;
+      color: black;
+   }
+
+   .frame h1 {
+      position: absolute;
+      margin-left: 130px;
+      position: relative;
+      bottom: 180px;
+      color: white;
+      font-size: 25px;
+   }
+
+   .frame p {
+      margin-left: 130px;
+      position: relative;
+   bottom: 150px;   
+   font-size: 10px;
+   color: white;
+   }
+
+   .framefoto {
+      width: 651px;
+      height: 320px;
+      position: relative;
+      top: 59px;
+      left: 89px;
+      border-radius: 20px;
+   }
+
+   .frame button {
+      margin-left: 130px;
+      position: relative;
+      bottom: 130px;
+      border-radius: 10px;
+      height: 40px;
+      width: 100px;
+      font-size: 10px;
+      border-style: none;
+      background-color: white;
+   }
+  
+
+    .sayfalarsol {
+    margin-left: 120px;
+    position: relative;
+    bottom: 59px;
+    }
+
+   .sayfalarsag {
+   float: right;
+   position: relative;
+   bottom: 405px;
+   display: flex;
+   flex-flow: column-reverse;
+   gap: 10px;
+   margin-right: 180px;
+   }
+  
+   .fotolar {
+      width: 140px;
+      height: 100px;
+      display: flex;
+      gap: 80px;
+      margin-left: 150px;
+   }
+
+   .yazilar {
+      margin-left: 100px;
+   }
+
+   .yazilar {
+      font-size: 10px;
+      display: flex;
+      gap: 80px;
+      color:#333136;
+      margin-top: 30px;
+      position: relative;
+      left: 30px;
+   }
+
+   .paragraflar {
+      display: flex;
+      margin-left: 150px;
+      gap: 150px;
+      font-size: 10px;
+      justify-content: space-between;
+   }
+
+   .ustbasliklar:hover {
+      font-weight: bold;
+  }
+
+   
